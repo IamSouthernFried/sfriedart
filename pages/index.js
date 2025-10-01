@@ -7,7 +7,6 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>SFreidArt</title>
-        <link rel="icon" href="/logo25.png" />
       </Head>
 
       <main>
