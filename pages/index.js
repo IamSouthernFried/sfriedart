@@ -15,8 +15,8 @@ export default function Home() {
         Find me on X at @Souther38496623
         </p>
       </main>
-
-      <Footer />
     </div>
+  <footer>
+    </footer>
   )
 }
